@@ -1,3 +1,2 @@
-A sample code for testing with Git
+Try a few other sample codes
 
-Going to try few more samples
