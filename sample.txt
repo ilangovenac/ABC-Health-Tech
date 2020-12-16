@@ -1,1 +1,5 @@
 A sample code for testing with Git
+
+Try a few other sample codes
+
+Using Github
